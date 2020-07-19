@@ -24,7 +24,7 @@ li {
 }
 
 .header {
-  background-color: #F5B4B3;
+  background-color: #37ada6;
   height: 50px;
   font-size: 1.5rem;
 }
@@ -53,6 +53,7 @@ li {
 
 .image_area {
   width: 100%;
+  height: 200px;
 }
 
 .wrapper {
@@ -66,7 +67,7 @@ li {
 }
 
 .side_menu li {
-  background-color:  #F5B4B3;
+  background-color:  #37ada6;
   height: 6rem;
   margin-bottom: 10px;
 }
@@ -84,11 +85,11 @@ li {
 }
 
 .side_menu .point {
-  background-color:  #FCECEC;
+  background-color:  #235d5a;
 }
 
 .side_menu .point a {
-  color: #4D4D4D;
+  color: #fff;
 }
 
 .banner {
